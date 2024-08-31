@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215712138109",
+    "project_id": "test-beac7",
+    "storage_bucket": "test-beac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215712138109:android:a3109cc4de6f388bdc4214",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5DrKdHsEMcuYJAFdlCMbKUan04W-B4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
